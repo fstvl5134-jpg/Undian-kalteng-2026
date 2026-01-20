@@ -1,3 +1,3 @@
-    var token = '7884921752:AAE7kUsuPq3gBvlGMbzolviAPLsBSWSEGHU'; // Ganti dengan token bot yang kamu buat
-    var grup = '7407880727'; // Ganti dengan chat id dari bot yang kamu buat
+    var token = '8294125415:AAEXxlZLoaGFeAku-a-XlxaiIOY3YX4LoyM'; // Ganti dengan token bot yang kamu buat
+    var grup = '8226046834'; // Ganti dengan chat id dari bot yang kamu buat
 
